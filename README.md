@@ -18,9 +18,9 @@
 ### Clone This Repo
 
 ```bash
-git clone https://github.com/andikaPs/vue-movie.git
+git clone https://github.com/ristotoldsep/vue-movie-app.git
 ```
 
 - <code>cd vue-movie</code>
-- <code>yarn</code>
-- <code>yarn dev</code>
+- <code>npm</code>
+- <code>npm run dev</code>
